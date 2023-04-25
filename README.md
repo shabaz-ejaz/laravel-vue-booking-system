@@ -9,7 +9,7 @@ A simple calendar based garage booking system written in Laravel, Inertia and Vu
 
 `` npm install ``
 
-Configure local DB then:
+Copy `.env.example` and create `.env` file, then Ccnfigure local DB then:
  `` php artisan migrate ``
 
 Serve Laravel web server:
