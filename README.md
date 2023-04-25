@@ -1,5 +1,5 @@
 
-## Haydens Garage Booking System
+##  Laravel - Inertia - Vue Booking System
 
 A simple calendar based garage booking system written in Laravel, Inertia and Vue3.
 
